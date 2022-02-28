@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40804703387",
+    "project_id": "trackerbug-20f3d",
+    "storage_bucket": "trackerbug-20f3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40804703387:android:98d01ad90dc4d9e8cc3a3e",
+        "android_client_info": {
+          "package_name": "com.moringaschool.trackbug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40804703387-0sfb7ptrllansi0bqtkse15hivv80tar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjWJDWGJw6IQKuPQ-P5KQAiTTxD533LYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40804703387-0sfb7ptrllansi0bqtkse15hivv80tar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
